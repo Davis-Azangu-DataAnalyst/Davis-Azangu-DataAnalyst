@@ -1,4 +1,5 @@
 -Introduction
+
 👋 Hi, I’m Davis Azangu, a Data Analyst with a passion for technology, numbers, and the great outdoors. As an avid Formula 1 fan, I enjoy cheering for Red Bull Racing and following the adrenaline-fueled races. When I'm not analyzing data, you can find me exploring nature or cycling through scenic routes.
 
 Interests
@@ -14,7 +15,7 @@ Collaboration Opportunities
 💞️ I’m looking to collaborate on data analytics projects and anything related to learning and applying data analytics techniques. If you have a project or idea you'd like to collaborate on, feel free to reach out!
 
 How to Reach Me
-📫 You can connect with me on LinkedIn or check out my articles on Medium.
+📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/davis-azangu-095b91287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B834%2BqJXMRqeL7aduVMOXsg%3D%3D or check out my articles on Medium:https://medium.com/@daviskasore04 .
 
 😄 Pronouns: He
 
