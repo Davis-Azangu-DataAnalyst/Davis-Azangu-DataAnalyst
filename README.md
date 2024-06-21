@@ -36,12 +36,24 @@
 
 <hr/>
  
+<style>
+    .icon {
+        width: 50px;
+        height: 50px;
+        margin-right: 10px;
+    }
+</style>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" class="icon" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" class="icon" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" class="icon" />
+</div>
+
+<br/>
+<hr/>
              
     <img src="https://example.com/pandas-logo.png" alt="Pandas" height="50" />
     <img src="https://example.com/sql-logo.png" alt="SQL" height="50" />
