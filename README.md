@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,tableau, powerbi" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" /><br>
 </div>
 
