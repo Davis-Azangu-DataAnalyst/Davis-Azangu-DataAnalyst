@@ -39,8 +39,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,numpy,matplotlib,seaborn,scikit-learn" alt="Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn Icons" />
+    <img src="https://skillicons.dev/icons?icon=python&icon=jupyter&icon=pandas&icon=numpy&icon=matplotlib&icon=seaborn&icon=scikit-learn" alt="Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn Icons" />
 </div>
+
+<br/>
+<hr/>
 
 
 
