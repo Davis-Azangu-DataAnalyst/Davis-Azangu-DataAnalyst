@@ -47,17 +47,16 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>📊 My Contribution Board 📊</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Davis-Azangu-DataAnalyst/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Board" src="https://raw.githubusercontent.com/Davis-Azangu-DataAnalyst/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Davis-Azangu-DataAnalyst/Davis-Azangu-DataAnalyst)](https://git.io/streak-stats)
+
 <br>
 
 
