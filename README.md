@@ -1,6 +1,55 @@
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Davis-Azangu-DataAnalyst.Davis-Azangu-DataAnalyst" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davis+Azangu!;" />
+</h1>
+
+<h3 align="center">A passionate Data Analyst from Kenya 🇰🇪</h3>
+
+<br/>
+
+<div align="center">
+
+
+ 🔭 I’m currently working on **a streamlit web app churn predictor**
+ 
+ 🌱 I’m currently learning **Data Analytics at Azubi Africa, Msc. Data Science UEL**
+
+ 💬 Ask me about **Python, SQL... or anything [here](https://github.com/Davis-Azangu-DataAnalyst/Davis-Azangu-DataAnalyst/issues)**
+
+⚡ Fun fact **Max Verstappen made history by becoming the youngest driver to start a Formula 1 race, at the age of 17 years and 166 days!**
+
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:davis.kasore04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/davis-azangu-095b91287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Davis-Azangu-DataAnalyst" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,numpy,matplotlib,seaborn,scikit-learn" alt="Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn Icons" />
+</div>
+
+
+
+
+
+
 -Introduction
 
-👋 Hi, I’m Davis Azangu, a Data Analyst with a passion for technology, numbers, and the great outdoors. As an avid Formula 1 fan, I enjoy cheering for Red Bull Racing and following the adrenaline-fueled races. When I'm not analyzing data, you can find me exploring nature or cycling through scenic routes.
+👋 Hi, I’m Davis Azangu, a Junior Data Analyst on my way to becoming a Data Scientist. My background is in Bsc. Economics and Statistics from Kenyatta University, currently pursuing Msc. Data Science in University of East London. I am proficient in Python, SQL, Tableau and Microsoft Power BI. I am passionate about using data to create actionable insights! I am a tech enthusiast and anything involving tech. 
 
 Interests
 Tech Enthusiast
