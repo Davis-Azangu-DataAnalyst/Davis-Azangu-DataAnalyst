@@ -39,20 +39,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://example.com/python-logo.png" alt="Python Logo" height="50" />
-    <img src="https://example.com/jupyter-logo.png" alt="Jupyter Notebook Logo" height="50" />
-    <img src="https://example.com/pandas-logo.png" alt="Pandas Logo" height="50" />
-    <img src="https://example.com/numpy-logo.png" alt="NumPy Logo" height="50" />
-    <img src="https://example.com/matplotlib-logo.png" alt="Matplotlib Logo" height="50" />
-    <img src="https://example.com/seaborn-logo.png" alt="Seaborn Logo" height="50" />
-    <img src="https://example.com/scikit-learn-logo.png" alt="Scikit-learn Logo" height="50" />
+    <img src="https://skillicons.dev/icons?i=python,pandas,sql,powerbi,tableau,numpy,matplotlib,seaborn,scikit-learn" />
 </div>
 
 <br/>
 <hr/>
 
-<br/>
-<hr/>
 
 
 
