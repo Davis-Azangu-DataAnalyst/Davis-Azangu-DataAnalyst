@@ -44,6 +44,14 @@
     }
 </style>
 
+<style>
+    .icon {
+        width: 25px;
+        height: 25px;
+        margin-right: 10px;
+    }
+</style>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
