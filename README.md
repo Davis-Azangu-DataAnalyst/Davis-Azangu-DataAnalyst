@@ -39,11 +39,26 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pandas,sql,powerbi,tableau,numpy,matplotlib,seaborn,scikit-learn" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+             
+    <img src="https://example.com/pandas-logo.png" alt="Pandas" height="50" />
+    <img src="https://example.com/sql-logo.png" alt="SQL" height="50" />
+    <img src="https://example.com/powerbi-logo.png" alt="Power BI" height="50" />
+    <img src="https://example.com/tableau-logo.png" alt="Tableau" height="50" />
+    <img src="https://example.com/numpy-logo.png" alt="NumPy" height="50" />
+    <img src="https://example.com/matplotlib-logo.png" alt="Matplotlib" height="50" />
+    <img src="https://example.com/seaborn-logo.png" alt="Seaborn" height="50" />
+    <img src="https://example.com/scikit-learn-logo.png" alt="Scikit-learn" height="50" />
 </div>
 
 <br/>
 <hr/>
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
 
 
