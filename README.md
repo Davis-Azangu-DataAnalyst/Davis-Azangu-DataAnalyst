@@ -38,9 +38,9 @@
  
 <style>
     .icon {
-        width: 50px;
-        height: 50px;
-        margin-right: 10px;
+        width: 5px;
+        height: 5px;
+        margin-right: 5px;
     }
 </style>
 
