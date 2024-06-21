@@ -55,36 +55,13 @@
 </div>
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-
-
--Introduction
-
-👋 Hi, I’m Davis Azangu, a Junior Data Analyst on my way to becoming a Data Scientist. My background is in Bsc. Economics and Statistics from Kenyatta University, currently pursuing Msc. Data Science in University of East London. I am proficient in Python, SQL, Tableau and Microsoft Power BI. I am passionate about using data to create actionable insights! I am a tech enthusiast and anything involving tech. 
-
-Interests
-Tech Enthusiast
-Data and Numbers
-Nature Lover
-Formula 1: Red Bull Fan
-Cyclist
-Current Focus
-🌱 I’m currently diving deep into data analytics and aspiring to advance my skills towards the realm of data science. I am passionate about leveraging data to derive insights and make informed decisions.
-
-Collaboration Opportunities
-💞️ I’m looking to collaborate on data analytics projects and anything related to learning and applying data analytics techniques. If you have a project or idea you'd like to collaborate on, feel free to reach out!
-
-How to Reach Me
-📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/davis-azangu-095b91287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B834%2BqJXMRqeL7aduVMOXsg%3D%3D or check out my articles on Medium:https://medium.com/@daviskasore04 .
-
-😄 Pronouns: He
-
-Fun Fact
-⚡ Fun Fact: I find the perfect blend of excitement in Formula 1 races, data analysis challenges, and exploring the wonders of technology.
-
-Feel free to explore my repositories and reach out for collaboration or discussion!
-
-<!---
-Davis-Azangu-DataAnalyst/Davis-Azangu-DataAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/><br/>
