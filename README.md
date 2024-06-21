@@ -55,9 +55,12 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Davis-Azangu-DataAnalyst)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Davis-Azangu-DataAnalyst/Davis-Azangu-DataAnalyst)](https://git.io/streak-stats)
 <br>
+
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Davis-Azangu-DataAnalyst&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Davis-Azangu-DataAnalyst&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
