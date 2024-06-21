@@ -49,7 +49,7 @@
 <div align="center">
   <h2>📊 My Contribution Board 📊</h2>
   <br>
-  <img alt="GitHub Contribution Board" src="https://raw.githubusercontent.com/Davis-Azangu-DataAnalyst/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Board" src="https://github-readme-stats.vercel.app/api?username=Davis-Azangu-DataAnalyst&show_icons=true&theme=radical" />
   
   <br/><br/><br/>
 </div>
