@@ -39,13 +39,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" />
-    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
-    <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
-    <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" />
-    <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" />
-    <img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-learn" />
+    <img src="https://example.com/python-logo.png" alt="Python" height="50" />
+    <img src="https://example.com/jupyter-logo.png" alt="Jupyter Notebook" height="50" />
+    <img src="https://example.com/pandas-logo.png" alt="Pandas" height="50" />
+    <img src="https://example.com/numpy-logo.png" alt="NumPy" height="50" />
+    <img src="https://example.com/matplotlib-logo.png" alt="Matplotlib" height="50" />
+    <img src="https://example.com/seaborn-logo.png" alt="Seaborn" height="50" />
+    <img src="https://example.com/scikit-learn-logo.png" alt="Scikit-learn" height="50" />
 </div>
 
 <br/>
