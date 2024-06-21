@@ -5,8 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davis+Azangu!;" />
 </h1>
 
-<h3 align="center">A passionate Data Analyst from Kenya 🇰🇪</h3>
-
+<h3 align="center">A passionate Data Analyst from Kenya :kenya:</h3>
 <br/>
 
 <div align="center">
