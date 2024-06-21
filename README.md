@@ -38,16 +38,8 @@
  
 <style>
     .icon {
-        width: 100px;
-        height: 100px;
-        margin-right: 100px;
-    }
-</style>
-
-<style>
-    .icon {
-        width: 25px;
-        height: 25px;
+        width: 1em;
+        height: 1em;
         margin-right: 10px;
     }
 </style>
@@ -59,10 +51,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" class="icon" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" class="icon" />
 </div>
-
-<br/>
-<hr/>
-             
     <img src="https://example.com/pandas-logo.png" alt="Pandas" height="50" />
     <img src="https://example.com/sql-logo.png" alt="SQL" height="50" />
     <img src="https://example.com/powerbi-logo.png" alt="Power BI" height="50" />
