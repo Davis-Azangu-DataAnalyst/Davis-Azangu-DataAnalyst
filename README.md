@@ -36,39 +36,15 @@
 
 <hr/>
  
-<style>
-    .icon {
-        width: 0.05em;
-        height: 0.05em;
-        margin-right: 0.05em;
-    }
-</style>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" class="icon" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" class="icon" />
-</div>
-    <img src="https://example.com/pandas-logo.png" alt="Pandas" height="50" />
-    <img src="https://example.com/sql-logo.png" alt="SQL" height="50" />
-    <img src="https://example.com/powerbi-logo.png" alt="Power BI" height="50" />
-    <img src="https://example.com/tableau-logo.png" alt="Tableau" height="50" />
-    <img src="https://example.com/numpy-logo.png" alt="NumPy" height="50" />
-    <img src="https://example.com/matplotlib-logo.png" alt="Matplotlib" height="50" />
-    <img src="https://example.com/seaborn-logo.png" alt="Seaborn" height="50" />
-    <img src="https://example.com/scikit-learn-logo.png" alt="Scikit-learn" height="50" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
 <hr/>
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-
-
 
 
 
