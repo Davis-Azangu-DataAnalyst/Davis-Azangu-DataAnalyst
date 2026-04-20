@@ -13,7 +13,7 @@
 
  🔭 I’m currently working on **Kenya's business funding data**
  
- 🌱 I’m currently learning **Data Analytics at Azubi Africa, Msc. Data Science UEL**
+ 🌱 I’m currently learning **Data Analytics at Azubi Africa, Msc. Data Science OUK**
 
  💬 Ask me about **Python, SQL... or anything [here](https://github.com/Davis-Azangu-DataAnalyst/Davis-Azangu-DataAnalyst/issues)**
 
