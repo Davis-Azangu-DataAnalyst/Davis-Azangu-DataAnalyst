@@ -11,7 +11,7 @@
 <div align="center">
 
 
- 🔭 I’m currently working on **a streamlit web app churn predictor**
+ 🔭 I’m currently working on **Kenya's business funding data**
  
  🌱 I’m currently learning **Data Analytics at Azubi Africa, Msc. Data Science UEL**
 
